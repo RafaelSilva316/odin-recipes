@@ -1,0 +1,39 @@
+body {
+    background-color: #f8eee9;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    color: #222;
+}
+
+.main-header{
+    font-family: Garamond, serif;
+    font-size: 40px;
+    text-align: center;
+    color: #410303;
+}
+
+.welcome-txt{
+    
+    font-size: 18px;
+    color: #222;
+}
+
+.recipe-link:link, .recipe-link:visited{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #4e2504;
+    padding: 8px;
+    border-radius: 5px;
+    color: #ffffff;
+}
+
+.recipe-link:hover, .recipe-link:active{
+
+    background-color: #573111;
+
+    color: #ffffff;
+}
+
+li{
+    margin-bottom: 8px;
+}
